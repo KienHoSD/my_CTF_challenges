@@ -29,7 +29,11 @@ Trong bài này ta cần lưu ý những chi tiết sau:
 * Cuối cùng: có `d` thì ta giải mã FLAG từ `c` bằng cách `pow(c,d,n)` tức là $c^d \ (mod \ n) = m = FLAG$ và FLAG đang là số nguyên, chuyển lại sang bytes thì ta sẽ có flag hoàn chỉnh.
 
 Tổng quát:
-$$c ≡ m^e \ (mod \ n)$$$$e*d ≡ 1 \ (mod \ phi)$$$$m ≡ c^d ≡ m^{e*d}≡m^1 ≡ m \ (mod \ n)$$
+$$c ≡ m^e \ (mod \ n)$$
+
+$$e*d ≡ 1 \ (mod \ phi)$$
+
+$$m ≡ c^d ≡ m^{e*d}≡m^1 ≡ m \ (mod \ n)$$
 
 Mình cũng có một bài viết về cách giải một bài tương tự nhưng khác là cho `p*q` chứ không phải là `p+q` nhưng cách giải vẫn tương tự trong [link](https://hackmd.io/@QT2Y4Jw-T-2LRx5Qs1S1Kg/B1RtSY1-a)
 
