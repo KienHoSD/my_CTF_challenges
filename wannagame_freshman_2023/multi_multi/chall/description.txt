@@ -1,0 +1,5 @@
+More encryption, more secure. or is it?
+
+Flag format: W1{this_is_not_a_flag}
+
+author: KienSD

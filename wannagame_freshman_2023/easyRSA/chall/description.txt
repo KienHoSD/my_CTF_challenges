@@ -1,0 +1,5 @@
+I gave you two hints! Now it's your turn to give me my flag.
+
+Flag format: W1{this_is_not_a_flag}
+
+author: KienSD

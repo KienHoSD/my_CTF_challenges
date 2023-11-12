@@ -1,0 +1,5 @@
+More xor for more ex-or!
+
+Flag format: W1{this_is_not_a_flag}
+
+author: KienSD
